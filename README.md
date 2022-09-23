@@ -1,17 +1,11 @@
 # realtime_chat
 
-A new Flutter project.
+Chat with friends and family.
 
 ## Getting Started
+![simulator_screenshot_AD2C0E03-FEAC-4AF4-80A3-8E709216631A](https://user-images.githubusercontent.com/48179354/191937560-93fae11d-da08-4f54-9b54-037bef826f41.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with reach me out
+[my website](https://johnmbugua.info/)
 # firebase-realtime-chat
