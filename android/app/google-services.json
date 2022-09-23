@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752826437739",
+    "project_id": "chat-89ba5",
+    "storage_bucket": "chat-89ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752826437739:android:9d28744f237ff43544212e",
+        "android_client_info": {
+          "package_name": "com.johnmbugua.realtime_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752826437739-62likv318970af8t6f83p8aagavn6hrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBnX1OKX7nte9m2Iy82-kUSGKlrEIhqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752826437739-62likv318970af8t6f83p8aagavn6hrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
